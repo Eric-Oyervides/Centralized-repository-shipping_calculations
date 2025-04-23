@@ -1,4 +1,3 @@
-#Here is another update by Eric-Oyervides
 #Here is a new update by Eric-Oyervides
 # Shipping Cost Calculator
 
